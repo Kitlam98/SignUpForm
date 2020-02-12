@@ -1,8 +1,8 @@
 # SignUpForm
-Assignment 2
 
-### Created a basic sign up form allowing the user to input name, email, password, and confirm password
+## Assignment 2
 
+## Created a basic sign up form allowing the user to input name, email, password, and confirm password
 1. Name
   - User can input any name they want since names are not restricted to any rules
   - Can not be empty
@@ -18,9 +18,8 @@ Assignment 2
   - The user must reenter this section with the password chosen above, to confirm 
   - Can not be empty
 
-#### Button "Confirm"
-
-  **The button confirm if the user's input is correct or not.
+## Button "Confirm"
+  **The button is there to confirm if the user's input is correct or not.
   If not, it will let the user know what information is missing
   and is required for the app**
 
